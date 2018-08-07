@@ -1,0 +1,6 @@
+[submodule "src/FirstBundle"]
+	path = src/FirstBundle
+	url = git@github.com:paulSenonEuronews/gitsubmodule1.git
+[submodule "src/SecondBundle"]
+	path = src/SecondBundle
+	url = git@github.com:paulSenonEuronews/gitsubmodule2.git
